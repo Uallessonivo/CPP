@@ -129,12 +129,18 @@
   <ItemGroup>
     <ClCompile Include="ConsoleCalculator.cpp" />
     <ClCompile Include="Consts.cpp" />
+    <ClCompile Include="DoWhile.cpp" />
+    <ClCompile Include="ForLoops.cpp" />
     <ClCompile Include="Functions.cpp" />
     <ClCompile Include="HelloWorld.cpp" />
     <ClCompile Include="HypotenuseCalculator.cpp" />
     <ClCompile Include="IfStatement.cpp" />
     <ClCompile Include="Input.cpp" />
+    <ClCompile Include="LogicalOps.cpp" />
+    <ClCompile Include="NestedLoop.cpp" />
+    <ClCompile Include="StringMethods.cpp" />
     <ClCompile Include="Switch.cpp" />
+    <ClCompile Include="Ternary.cpp" />
     <ClCompile Include="TypedefAndAlias.cpp" />
     <ClCompile Include="Variables.cpp" />
   </ItemGroup>
