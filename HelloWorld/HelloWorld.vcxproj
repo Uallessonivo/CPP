@@ -127,22 +127,33 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Array.cpp" />
+    <ClCompile Include="ArrayToFunction.cpp" />
+    <ClCompile Include="BankingApp.cpp" />
     <ClCompile Include="ConsoleCalculator.cpp" />
     <ClCompile Include="Consts.cpp" />
+    <ClCompile Include="DefiniedFuncs.cpp" />
     <ClCompile Include="DoWhile.cpp" />
     <ClCompile Include="ForLoops.cpp" />
     <ClCompile Include="Functions.cpp" />
+    <ClCompile Include="GuessGame.cpp" />
     <ClCompile Include="HelloWorld.cpp" />
     <ClCompile Include="HypotenuseCalculator.cpp" />
     <ClCompile Include="IfStatement.cpp" />
     <ClCompile Include="Input.cpp" />
     <ClCompile Include="LogicalOps.cpp" />
     <ClCompile Include="NestedLoop.cpp" />
+    <ClCompile Include="OverloardFuncs.cpp" />
+    <ClCompile Include="RandEventGenerator.cpp" />
+    <ClCompile Include="RandomNumbers.cpp" />
+    <ClCompile Include="RockPaperScissors.cpp" />
+    <ClCompile Include="SizeOf.cpp" />
     <ClCompile Include="StringMethods.cpp" />
     <ClCompile Include="Switch.cpp" />
     <ClCompile Include="Ternary.cpp" />
     <ClCompile Include="TypedefAndAlias.cpp" />
     <ClCompile Include="Variables.cpp" />
+    <ClCompile Include="VarScope.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Namespaces.h" />
