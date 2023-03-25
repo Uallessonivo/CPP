@@ -134,6 +134,8 @@
     <ClCompile Include="Consts.cpp" />
     <ClCompile Include="DefiniedFuncs.cpp" />
     <ClCompile Include="DoWhile.cpp" />
+    <ClCompile Include="Fill.cpp" />
+    <ClCompile Include="FillArrayWithInput.cpp" />
     <ClCompile Include="ForLoops.cpp" />
     <ClCompile Include="Functions.cpp" />
     <ClCompile Include="GuessGame.cpp" />
@@ -147,7 +149,9 @@
     <ClCompile Include="RandEventGenerator.cpp" />
     <ClCompile Include="RandomNumbers.cpp" />
     <ClCompile Include="RockPaperScissors.cpp" />
+    <ClCompile Include="SearchElemInArray.cpp" />
     <ClCompile Include="SizeOf.cpp" />
+    <ClCompile Include="SortAnArray.cpp" />
     <ClCompile Include="StringMethods.cpp" />
     <ClCompile Include="Switch.cpp" />
     <ClCompile Include="Ternary.cpp" />
