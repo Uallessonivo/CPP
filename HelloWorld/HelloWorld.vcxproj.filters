@@ -13,6 +13,9 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Arquivos de Origem\Algorithms">
+      <UniqueIdentifier>{6629a584-73e2-484e-910c-06d265ea3bd9}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="HelloWorld.cpp">
@@ -107,6 +110,39 @@
     </ClCompile>
     <ClCompile Include="FillArrayWithInput.cpp">
       <Filter>Arquivos de Origem</Filter>
+    </ClCompile>
+    <ClCompile Include="BinarySearch.cpp">
+      <Filter>Arquivos de Origem\Algorithms</Filter>
+    </ClCompile>
+    <ClCompile Include="ReverseWordsInString.cpp">
+      <Filter>Arquivos de Origem\Algorithms</Filter>
+    </ClCompile>
+    <ClCompile Include="ReverString.cpp">
+      <Filter>Arquivos de Origem\Algorithms</Filter>
+    </ClCompile>
+    <ClCompile Include="FirstBadVersion.cpp">
+      <Filter>Arquivos de Origem\Algorithms</Filter>
+    </ClCompile>
+    <ClCompile Include="SearchInsertPosition.cpp">
+      <Filter>Arquivos de Origem\Algorithms</Filter>
+    </ClCompile>
+    <ClCompile Include="SquaresOfASortedArray.cpp">
+      <Filter>Arquivos de Origem\Algorithms</Filter>
+    </ClCompile>
+    <ClCompile Include="RotateArray.cpp">
+      <Filter>Arquivos de Origem\Algorithms</Filter>
+    </ClCompile>
+    <ClCompile Include="MoveZeroes.cpp">
+      <Filter>Arquivos de Origem\Algorithms</Filter>
+    </ClCompile>
+    <ClCompile Include="TwoSumArray.cpp">
+      <Filter>Arquivos de Origem\Algorithms</Filter>
+    </ClCompile>
+    <ClCompile Include="MiddleOfLinkedList.cpp">
+      <Filter>Arquivos de Origem\Algorithms</Filter>
+    </ClCompile>
+    <ClCompile Include="RemoveNodeFrom.cpp">
+      <Filter>Arquivos de Origem\Algorithms</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
