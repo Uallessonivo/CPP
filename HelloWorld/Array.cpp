@@ -9,7 +9,7 @@ int main()
 	std::cout << cars << '\n';
 	std::cout << cars[1] << '\n';
 
-	std::string names[];
+	std::string names[5];
 
 	names[0] = "Uallesson";
 	names[1] = "Uallesson";
@@ -25,7 +25,7 @@ int main()
 	}
 
 	// Iterating over a array - 2st Solution
-	for (int i = 0; i < sizeof(names)/sizeof(std::string); i++)
+	for (int i = 0; i < sizeof(names) / sizeof(std::string); i++)
 	{
 		std::cout << "2st Solution: " << names[i] << '\n';
 	}
